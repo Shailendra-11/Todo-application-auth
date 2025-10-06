@@ -1,0 +1,26 @@
+{
+  "name": "backendblog",
+  "version": "1.0.0",
+  "description": "this blog api",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shailendra-11/BackendBlog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Shailendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shailendra-11/BackendBlog/issues"
+  },
+  "homepage": "https://github.com/Shailendra-11/BackendBlog#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
